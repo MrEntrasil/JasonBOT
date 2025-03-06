@@ -1,0 +1,8 @@
+# Directories
+database/
+deps/
+
+# Files
+gateway.json
+env.lua
+discordia.log
